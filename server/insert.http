@@ -1,0 +1,5 @@
+###
+post http://localhost:5000/api/insert/
+
+###
+post http://localhost:5000/api/insert/cate
